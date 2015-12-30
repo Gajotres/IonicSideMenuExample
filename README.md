@@ -1,4 +1,4 @@
-Ionic Side Menu Example
+## Ionic Side Menu Example
 
 =====================
 
