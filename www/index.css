@@ -1,0 +1,12 @@
+.bar.bar-header {
+  background: rgba(255,255,255,.10);
+  border-bottom-width: 0;
+}
+
+.bar.bar-header h1 {
+  color: black !important;
+}
+
+.scroll-content {
+  overflow: visible !important;
+}
